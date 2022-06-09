@@ -1,0 +1,34 @@
+
+        h1 {
+            font-family: Helvetica, sans-serif;
+            color: #FF331F;
+        }
+
+        h2 {
+            color: #FF331F;
+        }
+
+        #descricao {
+            font-family: 'Trebuchet MS', sans-serif;
+        }
+
+        body {
+            background-color: #0D0106;
+            color: #FBFBFF;
+        }
+
+        strong {
+            font-weight: 700;
+        }
+
+        .idioma {
+            font-size: 26px;
+        }
+
+        .poff {
+            font-size: 13px;
+        }
+
+        .figo {
+            font-size: 18px;
+        }

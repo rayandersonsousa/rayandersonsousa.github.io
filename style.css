@@ -6,16 +6,26 @@
         }
 
         h2 {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
             color: #FF331F;
         }
 
-        #descricao {
-            font-family: 'Trebuchet MS', sans-serif;
+        #sobre {
+            position: absolute;
+            top: 2%;
+            right: 600px;
+        }
+
+        .descricao {
+            position: absolute;
+            top: 20%;
+            right: 10%;
         }
 
         body {
             background-color: #0D0106;
             color: #FBFBFF;
+            padding: 2.5%;
         }
 
         strong {
@@ -43,8 +53,9 @@
 
         .image-con {
             height: 300px;
+            position: relative;
         }
 
-        div{
-            border: 2px solid green;
+         ul li:nth-child(odd) {
+            background-color: #FF331F;
         }

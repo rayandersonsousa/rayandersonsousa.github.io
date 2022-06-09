@@ -32,3 +32,15 @@
         .figo {
             font-size: 18px;
         }
+
+        #foto {
+            float: left ;
+        }
+
+        .image-con {
+            height: 300px;
+        }
+
+        div{
+            border: 2px solid green;
+        }

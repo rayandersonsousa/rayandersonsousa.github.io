@@ -1,7 +1,8 @@
 
-        h1 {
+        .meuNome {
             font-family: Helvetica, sans-serif;
             color: #FF331F;
+            text-align: center;
         }
 
         h2 {
@@ -35,6 +36,9 @@
 
         #foto {
             float: left ;
+            height: 275px;
+            padding: 10px;
+            background-color: #FF331F;
         }
 
         .image-con {
